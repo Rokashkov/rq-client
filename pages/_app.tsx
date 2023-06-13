@@ -1,5 +1,6 @@
 import React from 'react'
-import '../styles/global.sass'
+import 'shared/styles/global.sass'
+import 'normalize.css'
 
 
 if (typeof window === 'undefined') {
